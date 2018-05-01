@@ -1,2 +1,3 @@
 # Hello_World
-First repository 
+
+Hi! I am Taras, student of Kiev Taras Shevchenko National University!!!
